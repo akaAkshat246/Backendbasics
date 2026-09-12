@@ -1,0 +1,6 @@
+{
+  "name": "Atelier - Archival Commerce & Conscious Living",
+  "description": "An archival retail environment curating architectural living, contemporary utility apparel, and disciplined craftsmanship for discerning collectors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
